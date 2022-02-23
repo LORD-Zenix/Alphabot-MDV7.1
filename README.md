@@ -8,7 +8,7 @@
 </p>
 <p align="center">
 <a href="https://github.com/DikaArdnt"><img title="Author" src="https://img.shields.io/badge/Author-Dika-red.svg?style=for-the-badge&logo=github"></a>
-<a href="https://github.com/zeeoneofc/Alphabot-Md"><img title="Recode" src="https://img.shields.io/badge/Recode-ZeeoneOfc-red.svg?style=for-the-badge&logo=github"></a>
+<a href="https://github.com/LORD-Zenix/Alphabot-Md"><img title="Recode" src="https://img.shields.io/badge/Recode-Zenix-red.svg?style=for-the-badge&logo=github"></a>
 </p>
 <p align="center">
 <a href="https://github.com/zeeoneofc/followers"><img title="Followers" src="https://img.shields.io/github/followers/zeeoneofc?color=red&style=flat-square"></a>
@@ -39,7 +39,7 @@
 
 ## Bugs and Tester
 * Jika kamu menemukan bug jangan lupa buka Issues
-* Info Lebih Lanjut, Chat [owner-alpha](https://wa.me/62887435047326)
+* Info Lebih Lanjut, Chat [owner-alpha](https://wa.me/6285701863281)
 
 # Requirements
 * [Node.js](https://nodejs.org/en/)
@@ -95,16 +95,15 @@ Jika berhasil, akan memberikanmu pesan seperti: `SUCCESS: specified value was sa
 ```
 
 ## Donate
-- [Saweria](https://saweria.co/zeeoneofc)
+- [Saweria](https://saweria.co/LORDZenix)
 - [Dana](https://j.top4top.io/p_20532posd1.jpg)
 - [Ovo](https://h.top4top.io/p_2053vk0uw1.jpg)
 - [Gopay](https://i.top4top.io/p_2053em3vh1.jpg)
 
 # Official Group
-- [Alphabot 1](https://chat.whatsapp.com/EU890BcXjyBDkNaUT5WmYV)
-- [Alphabot 2](https://chat.whatsapp.com/E8NExJwIbhBJYzssfqJNsE)
-- [Alphabot 3](https://chat.whatsapp.com/KCSqHTky1apG7ApePsfiPy)
-
+- [`ZennBot`](https://chat.whatsapp.com/LEPW0AhevZr923xsFqYIA3)
+- [`Team Bot`](https://chat.whatsapp.com/GcNNE4GTHrAATFgxekV3iN)
+- [`Alphabot`](https://chat.whatsapp.com/KCSqHTky1apG7ApePsfiPy)
 
 # Thanks to
 <a href="https://github.com/DikaArdnt"><img src="https://github.com/DikaArdnt.png?size=100" width="100" height="100"></a> | [![NURUTOMO](https://github.com/Nurutomo.png?size=100)](https://github.com/Nurutomo) 
@@ -118,6 +117,7 @@ Constributor | For Help |
 [Ferdiz](https://github.com/FERDIZ-afk)  | [Rashid](https://github.com/rashidsiregar28)
 For Help | Owner Chikabot |
 <a href="https://github.com/adiwajshing"><img src="https://github.com/adiwajshing.png?size=100" width="100" height="100"></a> | [![FAJAR](http://github.com/zeeoneofc.png?size=100)](http://github.com/zeeoneofc) 
-[Adiwajshing](https://github.com/adiwajshing) | [ZeeoneOfc](https://zeeoneofc.github.io)
-Owner of Baileys | Owner of Api Alphabot |
-
+[Adiwajshing](https://github.com/adiwajshing) |
+<a href="https://github.com/LORD-Zenix"><img src="https://github.com/LORD-Zenix.png?size=100" width="100" height="100"></a> |
+[Zenix](https://github.com/LORD-Zenix) | [ZeeoneOfc](https://zeeoneofc.github.io)
+Owner of ZennBot | Owner of Api Alphabot |
